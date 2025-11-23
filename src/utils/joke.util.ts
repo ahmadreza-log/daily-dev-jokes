@@ -22,10 +22,21 @@ export function FormatJoke(Issue: Issue): string {
   const Author = Issue.user?.login || 'Unknown';
 
   // Format joke text - keep original line breaks, add blockquote to each line
-  const FormattedJokeText = ParsedJoke.Joke
+  // For markdown to properly render line breaks, we need to add a blank line between blockquote lines
+  const Lines = ParsedJoke.Joke
     .split('\n')
-    .filter(Line => Line.trim() !== '') // Remove empty lines
-    .map(Line => `> ${Line.trim()}`)
+    .map(Line => Line.trim())
+    .filter(Line => Line !== ''); // Remove empty lines first
+  
+  // Format with blockquote and add blank lines between for proper markdown rendering
+  const FormattedJokeText = Lines
+    .map((Line, Index) => {
+      // Add a blank blockquote line before each line (except the first) for proper spacing
+      if (Index > 0) {
+        return `>\n> ${Line}`;
+      }
+      return `> ${Line}`;
+    })
     .join('\n');
 
   // Build the output
