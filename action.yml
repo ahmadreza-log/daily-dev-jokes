@@ -1,7 +1,7 @@
 name: 'Daily Dev Jokes'
 description: 'Automatically update your README with random developer jokes from closed GitHub issues'
 branding:
-  icon: 'smile'
+  icon: 'book-open'
   color: 'yellow'
 inputs:
   GITHUB_TOKEN:
