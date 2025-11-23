@@ -38,9 +38,91 @@ This repository uses GitHub Actions to automatically update the README.md every 
 3. Randomly selects one joke
 4. Updates the README.md between the `<!--START_SECTION:dev-jokes-->` markers with formatted content
 
-## 🚀 Setup & Configuration Guide
+## 🚀 Quick Start (Recommended)
 
-### Method 1: Fork Repository (Recommended)
+Add this GitHub Action to your repository! No need to fork or copy files.
+
+### Step 1: Create Workflow File
+
+Create `.github/workflows/daily-joke.yml` in your repository:
+
+```yaml
+name: Daily Dev Joke
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"  # Run daily at midnight UTC
+
+jobs:
+  update-readme:
+    name: Update Daily Joke
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      issues: read
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Update README with daily joke
+        uses: ahmadreza-log/daily-dev-jokes@master
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          COMMIT_BY_ME: "True"
+          COMMIT_MESSAGE: "🤣 Update daily joke [skip ci]"
+          COMMIT_USERNAME: "github-actions[bot]"
+          COMMIT_EMAIL: "github-actions[bot]@users.noreply.github.com"
+          LABEL: "joke"
+          START_MARKER: "<!--START_SECTION:dev-jokes-->"
+          END_MARKER: "<!--END_SECTION:dev-jokes-->"
+          README_PATH: "README.md"
+```
+
+### Step 2: Add Markers to README
+
+Add these markers to your `README.md`:
+
+```markdown
+## Today's Joke
+
+<!--START_SECTION:dev-jokes-->
+<!--END_SECTION:dev-jokes-->
+```
+
+### Step 3: Create Issue Template (Optional)
+
+To use the joke template, copy `.github/ISSUE_TEMPLATE/` from this repository to yours, or create issues with the "joke" label manually.
+
+### Step 4: Create Your First Joke Issue
+
+1. Go to Issues → New Issue
+2. Use the joke template (if you copied it) or create a regular issue
+3. Add the "joke" label
+4. Close the issue after creating it
+5. The action will pick it up on the next run!
+
+That's it! The action will automatically update your README daily with a random joke. 🎉
+
+## 📋 Available Inputs
+
+| Input | Description | Required | Default |
+|-------|-------------|----------|---------|
+| `GITHUB_TOKEN` | GitHub token for API access | No* | `secrets.GITHUB_TOKEN` |
+| `COMMIT_BY_ME` | Whether to commit changes automatically | No | `True` |
+| `COMMIT_MESSAGE` | Commit message for the update | No | `🤣 Update daily joke [skip ci]` |
+| `COMMIT_USERNAME` | Username for git commit | No | `github-actions[bot]` |
+| `COMMIT_EMAIL` | Email for git commit | No | `github-actions[bot]@users.noreply.github.com` |
+| `LABEL` | Label to filter issues | No | `joke` |
+| `START_MARKER` | Start marker for README section | No | `<!--START_SECTION:dev-jokes-->` |
+| `END_MARKER` | End marker for README section | No | `<!--END_SECTION:dev-jokes-->` |
+| `README_PATH` | Path to README file | No | `README.md` |
+
+\* `GITHUB_TOKEN` is automatically provided by GitHub Actions, but you can override it if needed.
+
+## 🚀 Setup & Configuration Guide (Alternative Methods)
+
+### Alternative Method 1: Fork Repository
 
 1. **Fork the Repository:**
    - Click the "Fork" button at the top of the page

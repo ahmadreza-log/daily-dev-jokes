@@ -1,0 +1,45 @@
+name: 'Daily Dev Jokes'
+description: 'Automatically update your README with random developer jokes from closed GitHub issues'
+branding:
+  icon: 'smile'
+  color: 'yellow'
+inputs:
+  GITHUB_TOKEN:
+    description: 'GitHub token for API access (defaults to secrets.GITHUB_TOKEN)'
+    required: false
+  COMMIT_BY_ME:
+    description: 'Whether to commit changes automatically'
+    required: false
+    default: 'True'
+  COMMIT_MESSAGE:
+    description: 'Commit message for the update'
+    required: false
+    default: '🤣 Update daily joke [skip ci]'
+  COMMIT_USERNAME:
+    description: 'Username for git commit'
+    required: false
+    default: 'github-actions[bot]'
+  COMMIT_EMAIL:
+    description: 'Email for git commit'
+    required: false
+    default: 'github-actions[bot]@users.noreply.github.com'
+  LABEL:
+    description: 'Label to filter issues (default: joke)'
+    required: false
+    default: 'joke'
+  START_MARKER:
+    description: 'Start marker for README section'
+    required: false
+    default: '<!--START_SECTION:dev-jokes-->'
+  END_MARKER:
+    description: 'End marker for README section'
+    required: false
+    default: '<!--END_SECTION:dev-jokes-->'
+  README_PATH:
+    description: 'Path to README file'
+    required: false
+    default: 'README.md'
+runs:
+  using: 'node20'
+  main: 'dist/action.js'
+
