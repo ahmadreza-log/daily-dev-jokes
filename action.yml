@@ -1,5 +1,6 @@
 name: 'Daily Dev Jokes'
-description: 'Automatically update your README with random developer jokes from closed GitHub issues'
+description: 'Automatically update your README with random developer jokes from closed GitHub issues. Fetch jokes from a source repository and display them in your README with customizable formatting.'
+author: 'ahmadreza-log'
 branding:
   icon: 'book-open'
   color: 'yellow'
