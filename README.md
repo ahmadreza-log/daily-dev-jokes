@@ -91,19 +91,32 @@ Add these markers to your `README.md`:
 <!--END_SECTION:dev-jokes-->
 ```
 
-### Step 3: Create Issue Template (Optional)
+### Step 3: Understanding SOURCE_REPO
 
-To use the joke template, copy `.github/ISSUE_TEMPLATE/` from this repository to yours, or create issues with the "joke" label manually.
+The action fetches jokes from a **source repository** (default: `ahmadreza-log/daily-dev-jokes`) and displays them in **your repository's README**. This means:
 
-### Step 4: Create Your First Joke Issue
+- ✅ **You don't need to create issues in your repository** - jokes come from the source repo
+- ✅ **Multiple repositories can share the same jokes** - just use the same `SOURCE_REPO`
+- ✅ **Centralized joke management** - all jokes are managed in one place
 
-1. Go to Issues → New Issue
-2. Use the joke template (if you copied it) or create a regular issue
-3. Add the "joke" label
-4. Close the issue after creating it
-5. The action will pick it up on the next run!
+If you want to use a different source repository, just change the `SOURCE_REPO` input:
 
-That's it! The action will automatically update your README daily with a random joke. 🎉
+```yaml
+SOURCE_REPO: "your-username/your-joke-repo"
+```
+
+### Step 4: Create Your First Joke Issue (in Source Repository)
+
+If you want to contribute jokes to the default source repository (`ahmadreza-log/daily-dev-jokes`):
+
+1. Go to [ahmadreza-log/daily-dev-jokes Issues](https://github.com/ahmadreza-log/daily-dev-jokes/issues)
+2. Click "New Issue"
+3. Use the joke template or create a regular issue
+4. Add the "joke" label
+5. Close the issue after creating it
+6. The action will pick it up on the next run!
+
+That's it! The action will automatically update your README daily with a random joke from the source repository. 🎉
 
 ## 📋 Available Inputs
 
