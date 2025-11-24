@@ -42,13 +42,26 @@ export function FormatJoke(Issue: Issue): string {
   // Build the output
   let Output = `${FormattedJokeText}`;
 
-  // Add image if available
-  if (ParsedJoke.Image) {
-    Output += `\n> \n> ![Joke Image](${ParsedJoke.Image})`;
+  // Add image if available (outside blockquote for better rendering)
+  if (ParsedJoke.Image && ParsedJoke.Image.trim() !== '') {
+    // Validate URL format
+    const ImageUrl = ParsedJoke.Image.trim();
+    const IsValidUrl = ImageUrl.startsWith('http://') || ImageUrl.startsWith('https://');
+    
+    if (IsValidUrl) {
+      // Add image outside blockquote for better markdown rendering
+      // Use a blank line before and after for proper spacing
+      Output += `\n\n![Joke Image](${ImageUrl})\n`;
+    } else {
+      // If it's not a valid URL, log a warning (only in development)
+      if (process.env.NODE_ENV !== 'production') {
+        console.warn(`⚠️ Invalid image URL format: ${ImageUrl}`);
+      }
+    }
   }
 
   // Add footer with author (simple format, no language, no issue link)
-  Output += `\n> \n> — ${Author}`;
+  Output += `\n\n> — ${Author}`;
 
   return Output;
 }

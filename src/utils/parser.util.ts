@@ -28,8 +28,42 @@ export function ParseIssueBody(Issue: Issue): ParsedJoke {
 
   // Extract image URL (field id: image)
   // Pattern: ### 🖼️ Meme Image URL\n\n[url]\n\n### or end
-  const ImagePattern = /###\s*🖼️\s*Meme Image URL\s*\n\n([\s\S]*?)(?=\n###|\n---|$)/i;
-  const ImageUrl = ExtractField(ImagePattern);
+  // Also handle cases where there might be extra whitespace or different formatting
+  // Try multiple patterns to handle different GitHub issue body formats
+  let ImageUrl: string | undefined;
+  
+  // Pattern 1: Standard format with ### header
+  const ImagePattern1 = /###\s*🖼️\s*Meme Image URL\s*\n\n([\s\S]*?)(?=\n###|\n---|$)/i;
+  ImageUrl = ExtractField(ImagePattern1);
+  
+  // Pattern 2: Alternative format (in case GitHub renders it differently)
+  if (!ImageUrl) {
+    const ImagePattern2 = /🖼️\s*Meme Image URL\s*:?\s*\n\n?([^\n]+)/i;
+    ImageUrl = ExtractField(ImagePattern2);
+  }
+  
+  // Pattern 3: Direct URL pattern after the label
+  if (!ImageUrl) {
+    const ImagePattern3 = /Meme Image URL[:\s]*\n\n?([^\n]+)/i;
+    ImageUrl = ExtractField(ImagePattern3);
+  }
+  
+  // Clean up the image URL - remove any extra whitespace, newlines, or markdown links
+  if (ImageUrl) {
+    ImageUrl = ImageUrl.trim();
+    // If it's a markdown link, extract the URL
+    const MarkdownLinkMatch = ImageUrl.match(/\[.*?\]\((.*?)\)/);
+    if (MarkdownLinkMatch) {
+      ImageUrl = MarkdownLinkMatch[1];
+    }
+    // Remove any trailing whitespace or newlines
+    ImageUrl = ImageUrl.replace(/\s+$/, '').replace(/\n/g, '').replace(/\r/g, '');
+    
+    // Log for debugging (only in development)
+    if (process.env.NODE_ENV !== 'production') {
+      console.log(`📷 Extracted image URL: ${ImageUrl}`);
+    }
+  }
 
   // Extract language (field id: language)
   // Pattern: ### 🌍 Language\n\n[language]\n\n### or end
