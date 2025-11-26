@@ -6,9 +6,9 @@ A fun repository for sharing developer jokes and memes! Submit an issue with "jo
 
 <!--START_SECTION:dev-jokes-->
 
-> Q: How did the Coder CEO build his company headquarters?
+> Question: Why don't keyboards sleep?
 >
-> A: By calling the Constructor();
+> Answer: Because they have two shifts.
 
 > — ahmadreza-log
 
