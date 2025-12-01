@@ -6,9 +6,9 @@ A fun repository for sharing developer jokes and memes! Submit an issue with "jo
 
 <!--START_SECTION:dev-jokes-->
 
-> Q: How did the Coder CEO build his company headquarters?
+> Q: Who won the debate for the best name for loop variable?
 >
-> A: By calling the Constructor();
+> A: i won.
 
 > — ahmadreza-log
 
