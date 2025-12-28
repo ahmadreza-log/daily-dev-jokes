@@ -71,9 +71,9 @@ Add these markers to your `README.md` file:
 
 <!--START_SECTION:dev-jokes-->
 
-> Question: Why don't keyboards sleep?
+> Q: What is Hardware?
 >
-> Answer: Because they have two shifts.
+> A: The part of the computer which you can kick.
 
 > — ahmadreza-log
 
