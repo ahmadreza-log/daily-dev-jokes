@@ -71,9 +71,9 @@ Add these markers to your `README.md` file:
 
 <!--START_SECTION:dev-jokes-->
 
-> Q: Why do programmers prefer dark mode?
+> Q: Who won the debate for the best name for loop variable?
 >
-> A: Because light attracts bugs! 🐛
+> A: i won.
 
 > — ahmadreza-log
 
