@@ -71,7 +71,9 @@ Add these markers to your `README.md` file:
 
 <!--START_SECTION:dev-jokes-->
 
-> Programmer (noun.) - A person who fixed a problem that you don't know you have, in a way you don't understand.
+> Question: What is a developer's favorite country song?
+>
+> Answer: Hello World - by Lady Antebellum
 
 > — ahmadreza-log
 
