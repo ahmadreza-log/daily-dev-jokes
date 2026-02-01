@@ -71,9 +71,9 @@ Add these markers to your `README.md` file:
 
 <!--START_SECTION:dev-jokes-->
 
-> Q: How did the Coder CEO build his company headquarters?
+> Question: What is a developer's favorite country song?
 >
-> A: By calling the Constructor();
+> Answer: Hello World - by Lady Antebellum
 
 > — ahmadreza-log
 
