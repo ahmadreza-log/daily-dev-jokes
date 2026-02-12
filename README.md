@@ -71,9 +71,12 @@ Add these markers to your `README.md` file:
 
 <!--START_SECTION:dev-jokes-->
 
-> Question: How many developers does it take to screw in a lightbulb?
+> Question: Favourite actor of a JavaScript Developer is?
 >
-> Answer: None. It’s a hardware problem.
+> Answer: JSON Statham
+
+![Joke Image](https://raw.githubusercontent.com/shrutikapoor08/devjoke/master/images/E12OmzjXoAAzVvh.jpeg)
+
 
 > — ahmadreza-log
 
