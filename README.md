@@ -71,9 +71,9 @@ Add these markers to your `README.md` file:
 
 <!--START_SECTION:dev-jokes-->
 
-> Q: How did the Coder CEO build his company headquarters?
+> Q: Why do they call it hyper text?
 >
-> A: By calling the Constructor();
+> A: Too much JAVA.
 
 > — ahmadreza-log
 
