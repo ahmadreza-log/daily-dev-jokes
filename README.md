@@ -71,7 +71,9 @@ Add these markers to your `README.md` file:
 
 <!--START_SECTION:dev-jokes-->
 
-> I have a joke about Stack Overflow, but you would say it's a duplicate.
+> Question: What is a developer's favorite country song?
+>
+> Answer: Hello World - by Lady Antebellum
 
 > — ahmadreza-log
 
