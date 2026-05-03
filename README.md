@@ -71,12 +71,7 @@ Add these markers to your `README.md` file:
 
 <!--START_SECTION:dev-jokes-->
 
-> Question: Favourite actor of a JavaScript Developer is?
->
-> Answer: JSON Statham
-
-![Joke Image](https://raw.githubusercontent.com/shrutikapoor08/devjoke/master/images/E12OmzjXoAAzVvh.jpeg)
-
+> Programmer's Curse: the moment you brag "no bugs", a bug appears
 
 > — ahmadreza-log
 
