@@ -71,9 +71,9 @@ Add these markers to your `README.md` file:
 
 <!--START_SECTION:dev-jokes-->
 
-> Question: Why did the private classes break up?
+> Question: What's the object-oriented way to become wealthy?
 >
-> Answer: Because they never saw each other.
+> Answer: Inheritance.
 
 > — ahmadreza-log
 
