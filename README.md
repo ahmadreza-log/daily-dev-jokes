@@ -71,7 +71,9 @@ Add these markers to your `README.md` file:
 
 <!--START_SECTION:dev-jokes-->
 
-> Debugging: Removing the needles from the haystack.
+> Q: What is Hardware?
+>
+> A: The part of the computer which you can kick.
 
 > — ahmadreza-log
 
