@@ -71,7 +71,7 @@ Add these markers to your `README.md` file:
 
 <!--START_SECTION:dev-jokes-->
 
-> Debugging: Removing the needles from the haystack.
+> Programmer's Curse: the moment you brag "no bugs", a bug appears
 
 > — ahmadreza-log
 
