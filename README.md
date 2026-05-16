@@ -71,7 +71,9 @@ Add these markers to your `README.md` file:
 
 <!--START_SECTION:dev-jokes-->
 
-> Debugging: Removing the needles from the haystack.
+> Question: Why don't keyboards sleep?
+>
+> Answer: Because they have two shifts.
 
 > — ahmadreza-log
 
