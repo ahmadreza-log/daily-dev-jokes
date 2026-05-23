@@ -71,7 +71,7 @@ Add these markers to your `README.md` file:
 
 <!--START_SECTION:dev-jokes-->
 
-> Programmer (noun.) - A person who fixed a problem that you don't know you have, in a way you don't understand.
+> A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks "may I join you?"
 
 > — ahmadreza-log
 
