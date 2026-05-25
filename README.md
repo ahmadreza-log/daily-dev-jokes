@@ -71,9 +71,9 @@ Add these markers to your `README.md` file:
 
 <!--START_SECTION:dev-jokes-->
 
-> Q: Why do they call it hyper text?
+> Q: What is Hardware?
 >
-> A: Too much JAVA.
+> A: The part of the computer which you can kick.
 
 > — ahmadreza-log
 
