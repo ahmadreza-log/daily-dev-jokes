@@ -71,9 +71,7 @@ Add these markers to your `README.md` file:
 
 <!--START_SECTION:dev-jokes-->
 
-> Q: What is Hardware?
->
-> A: The part of the computer which you can kick.
+> Software and cathedrals are much the same — first we build them, then we pray.
 
 > — ahmadreza-log
 
