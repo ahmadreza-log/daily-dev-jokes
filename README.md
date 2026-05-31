@@ -71,9 +71,7 @@ Add these markers to your `README.md` file:
 
 <!--START_SECTION:dev-jokes-->
 
-> Q: What is Hardware?
->
-> A: The part of the computer which you can kick.
+> Programmer's Curse: the moment you brag "no bugs", a bug appears
 
 > — ahmadreza-log
 
