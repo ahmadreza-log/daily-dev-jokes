@@ -71,9 +71,10 @@ Add these markers to your `README.md` file:
 
 <!--START_SECTION:dev-jokes-->
 
-> Question: What is a developer's favorite country song?
->
-> Answer: Hello World - by Lady Antebellum
+> Frontend VS. Backend
+
+![Joke Image](https://github.com/shrutikapoor08/devjoke/raw/master/images/j55.jpg)
+
 
 > — ahmadreza-log
 
