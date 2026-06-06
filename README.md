@@ -71,7 +71,9 @@ Add these markers to your `README.md` file:
 
 <!--START_SECTION:dev-jokes-->
 
-> Debugging: Removing the needles from the haystack.
+> Question: What's the object-oriented way to become wealthy?
+>
+> Answer: Inheritance.
 
 > — ahmadreza-log
 
