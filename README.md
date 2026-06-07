@@ -71,9 +71,9 @@ Add these markers to your `README.md` file:
 
 <!--START_SECTION:dev-jokes-->
 
-> Question: Why don't keyboards sleep?
+> Question: Why did the private classes break up?
 >
-> Answer: Because they have two shifts.
+> Answer: Because they never saw each other.
 
 > — ahmadreza-log
 
