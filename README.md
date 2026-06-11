@@ -71,7 +71,9 @@ Add these markers to your `README.md` file:
 
 <!--START_SECTION:dev-jokes-->
 
-> Debugging: Removing the needles from the haystack.
+> Code is like humor.
+>
+> When you have to explain it, it’s bad.
 
 > — ahmadreza-log
 
