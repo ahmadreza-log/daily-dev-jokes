@@ -71,9 +71,9 @@ Add these markers to your `README.md` file:
 
 <!--START_SECTION:dev-jokes-->
 
-> Question: Why don't keyboards sleep?
+> Q: Who won the debate for the best name for loop variable?
 >
-> Answer: Because they have two shifts.
+> A: i won.
 
 > — ahmadreza-log
 
