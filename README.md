@@ -71,9 +71,7 @@ Add these markers to your `README.md` file:
 
 <!--START_SECTION:dev-jokes-->
 
-> Question: How many developers does it take to screw in a lightbulb?
->
-> Answer: None. It’s a hardware problem.
+> Programmer (noun.) - A person who fixed a problem that you don't know you have, in a way you don't understand.
 
 > — ahmadreza-log
 
