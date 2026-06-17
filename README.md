@@ -71,9 +71,9 @@ Add these markers to your `README.md` file:
 
 <!--START_SECTION:dev-jokes-->
 
-> Q: Why do they call it hyper text?
+> Question: Why did the private classes break up?
 >
-> A: Too much JAVA.
+> Answer: Because they never saw each other.
 
 > — ahmadreza-log
 
