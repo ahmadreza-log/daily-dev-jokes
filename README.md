@@ -71,9 +71,10 @@ Add these markers to your `README.md` file:
 
 <!--START_SECTION:dev-jokes-->
 
-> Q: What is Hardware?
->
-> A: The part of the computer which you can kick.
+> Frontend VS. Backend
+
+![Joke Image](https://github.com/shrutikapoor08/devjoke/raw/master/images/j55.jpg)
+
 
 > — ahmadreza-log
 
