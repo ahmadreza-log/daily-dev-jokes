@@ -71,7 +71,9 @@ Add these markers to your `README.md` file:
 
 <!--START_SECTION:dev-jokes-->
 
-> I have a joke about Stack Overflow, but you would say it's a duplicate.
+> Question: What's the object-oriented way to become wealthy?
+>
+> Answer: Inheritance.
 
 > — ahmadreza-log
 
