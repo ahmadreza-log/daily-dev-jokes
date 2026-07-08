@@ -71,9 +71,9 @@ Add these markers to your `README.md` file:
 
 <!--START_SECTION:dev-jokes-->
 
-> Q: What is Hardware?
+> Question: What's the object-oriented way to become wealthy?
 >
-> A: The part of the computer which you can kick.
+> Answer: Inheritance.
 
 > — ahmadreza-log
 
