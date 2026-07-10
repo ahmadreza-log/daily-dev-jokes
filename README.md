@@ -71,9 +71,7 @@ Add these markers to your `README.md` file:
 
 <!--START_SECTION:dev-jokes-->
 
-> Q: Who won the debate for the best name for loop variable?
->
-> A: i won.
+> Debugging: Removing the needles from the haystack.
 
 > — ahmadreza-log
 
