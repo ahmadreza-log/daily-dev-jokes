@@ -71,7 +71,9 @@ Add these markers to your `README.md` file:
 
 <!--START_SECTION:dev-jokes-->
 
-> Programmer's Curse: the moment you brag "no bugs", a bug appears
+> Question: How many developers does it take to screw in a lightbulb?
+>
+> Answer: None. It’s a hardware problem.
 
 > — ahmadreza-log
 
