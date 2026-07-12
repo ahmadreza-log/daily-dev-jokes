@@ -71,10 +71,7 @@ Add these markers to your `README.md` file:
 
 <!--START_SECTION:dev-jokes-->
 
-> Frontend VS. Backend
-
-![Joke Image](https://github.com/shrutikapoor08/devjoke/raw/master/images/j55.jpg)
-
+> I have a joke about Stack Overflow, but you would say it's a duplicate.
 
 > — ahmadreza-log
 
