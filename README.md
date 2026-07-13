@@ -71,9 +71,9 @@ Add these markers to your `README.md` file:
 
 <!--START_SECTION:dev-jokes-->
 
-> Question: What's the object-oriented way to become wealthy?
+> Question: What is a developer's favorite country song?
 >
-> Answer: Inheritance.
+> Answer: Hello World - by Lady Antebellum
 
 > — ahmadreza-log
 
