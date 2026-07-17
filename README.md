@@ -71,9 +71,9 @@ Add these markers to your `README.md` file:
 
 <!--START_SECTION:dev-jokes-->
 
-> Code is like humor.
+> Question: Why don't keyboards sleep?
 >
-> When you have to explain it, it’s bad.
+> Answer: Because they have two shifts.
 
 > — ahmadreza-log
 
