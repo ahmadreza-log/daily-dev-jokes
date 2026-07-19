@@ -71,7 +71,9 @@ Add these markers to your `README.md` file:
 
 <!--START_SECTION:dev-jokes-->
 
-> Debugging: Removing the needles from the haystack.
+> Q: Why do they call it hyper text?
+>
+> A: Too much JAVA.
 
 > — ahmadreza-log
 
