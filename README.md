@@ -71,7 +71,9 @@ Add these markers to your `README.md` file:
 
 <!--START_SECTION:dev-jokes-->
 
-> Software and cathedrals are much the same — first we build them, then we pray.
+> Q: Why do they call it hyper text?
+>
+> A: Too much JAVA.
 
 > — ahmadreza-log
 
