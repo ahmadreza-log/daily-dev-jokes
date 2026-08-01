@@ -71,7 +71,9 @@ Add these markers to your `README.md` file:
 
 <!--START_SECTION:dev-jokes-->
 
-> A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks "may I join you?"
+> Question: What's the object-oriented way to become wealthy?
+>
+> Answer: Inheritance.
 
 > — ahmadreza-log
 
