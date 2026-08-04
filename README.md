@@ -71,9 +71,10 @@ Add these markers to your `README.md` file:
 
 <!--START_SECTION:dev-jokes-->
 
-> Question: Why did the private classes break up?
->
-> Answer: Because they never saw each other.
+> Frontend VS. Backend
+
+![Joke Image](https://github.com/shrutikapoor08/devjoke/raw/master/images/j55.jpg)
+
 
 > — ahmadreza-log
 
