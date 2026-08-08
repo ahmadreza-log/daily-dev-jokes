@@ -71,7 +71,10 @@ Add these markers to your `README.md` file:
 
 <!--START_SECTION:dev-jokes-->
 
-> Software and cathedrals are much the same — first we build them, then we pray.
+> Frontend VS. Backend
+
+![Joke Image](https://github.com/shrutikapoor08/devjoke/raw/master/images/j55.jpg)
+
 
 > — ahmadreza-log
 
