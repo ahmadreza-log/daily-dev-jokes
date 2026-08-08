@@ -71,9 +71,9 @@ Add these markers to your `README.md` file:
 
 <!--START_SECTION:dev-jokes-->
 
-> Question: How many developers does it take to screw in a lightbulb?
+> Q: Why do they call it hyper text?
 >
-> Answer: None. It’s a hardware problem.
+> A: Too much JAVA.
 
 > — ahmadreza-log
 
