@@ -71,9 +71,9 @@ Add these markers to your `README.md` file:
 
 <!--START_SECTION:dev-jokes-->
 
-> Q: Why do programmers prefer dark mode?
+> Question: What is a developer's favorite country song?
 >
-> A: Because light attracts bugs! 🐛
+> Answer: Hello World - by Lady Antebellum
 
 > — ahmadreza-log
 
