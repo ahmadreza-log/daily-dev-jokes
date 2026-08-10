@@ -71,7 +71,9 @@ Add these markers to your `README.md` file:
 
 <!--START_SECTION:dev-jokes-->
 
-> I have a joke about Stack Overflow, but you would say it's a duplicate.
+> Q: Why do they call it hyper text?
+>
+> A: Too much JAVA.
 
 > — ahmadreza-log
 
