@@ -71,9 +71,9 @@ Add these markers to your `README.md` file:
 
 <!--START_SECTION:dev-jokes-->
 
-> Q: What is Hardware?
+> Question: Why did the private classes break up?
 >
-> A: The part of the computer which you can kick.
+> Answer: Because they never saw each other.
 
 > — ahmadreza-log
 
