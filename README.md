@@ -71,9 +71,9 @@ Add these markers to your `README.md` file:
 
 <!--START_SECTION:dev-jokes-->
 
-> Question: How many developers does it take to screw in a lightbulb?
+> Question: Why did the private classes break up?
 >
-> Answer: None. It’s a hardware problem.
+> Answer: Because they never saw each other.
 
 > — ahmadreza-log
 
