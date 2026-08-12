@@ -71,9 +71,7 @@ Add these markers to your `README.md` file:
 
 <!--START_SECTION:dev-jokes-->
 
-> Q: How did the Coder CEO build his company headquarters?
->
-> A: By calling the Constructor();
+> Programmer (noun.) - A person who fixed a problem that you don't know you have, in a way you don't understand.
 
 > — ahmadreza-log
 
