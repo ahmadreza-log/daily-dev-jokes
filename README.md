@@ -71,9 +71,9 @@ Add these markers to your `README.md` file:
 
 <!--START_SECTION:dev-jokes-->
 
-> Code is like humor.
+> Q: Why do programmers prefer dark mode?
 >
-> When you have to explain it, it’s bad.
+> A: Because light attracts bugs! 🐛
 
 > — ahmadreza-log
 
