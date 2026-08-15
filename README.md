@@ -71,9 +71,9 @@ Add these markers to your `README.md` file:
 
 <!--START_SECTION:dev-jokes-->
 
-> Question: What is a developer's favorite country song?
+> Code is like humor.
 >
-> Answer: Hello World - by Lady Antebellum
+> When you have to explain it, it’s bad.
 
 > — ahmadreza-log
 
