@@ -71,7 +71,9 @@ Add these markers to your `README.md` file:
 
 <!--START_SECTION:dev-jokes-->
 
-> Software and cathedrals are much the same — first we build them, then we pray.
+> Q: Who won the debate for the best name for loop variable?
+>
+> A: i won.
 
 > — ahmadreza-log
 
