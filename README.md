@@ -71,9 +71,7 @@ Add these markers to your `README.md` file:
 
 <!--START_SECTION:dev-jokes-->
 
-> Question: What is a developer's favorite country song?
->
-> Answer: Hello World - by Lady Antebellum
+> Software and cathedrals are much the same — first we build them, then we pray.
 
 > — ahmadreza-log
 
