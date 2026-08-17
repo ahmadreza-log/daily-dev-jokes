@@ -71,9 +71,9 @@ Add these markers to your `README.md` file:
 
 <!--START_SECTION:dev-jokes-->
 
-> Question: Why don't keyboards sleep?
+> Question: What is a developer's favorite country song?
 >
-> Answer: Because they have two shifts.
+> Answer: Hello World - by Lady Antebellum
 
 > — ahmadreza-log
 
