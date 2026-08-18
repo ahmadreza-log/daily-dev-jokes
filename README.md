@@ -71,9 +71,7 @@ Add these markers to your `README.md` file:
 
 <!--START_SECTION:dev-jokes-->
 
-> Q: Why do they call it hyper text?
->
-> A: Too much JAVA.
+> Programmer (noun.) - A person who fixed a problem that you don't know you have, in a way you don't understand.
 
 > — ahmadreza-log
 
