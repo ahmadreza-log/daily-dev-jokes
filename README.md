@@ -71,9 +71,9 @@ Add these markers to your `README.md` file:
 
 <!--START_SECTION:dev-jokes-->
 
-> Q: Why do programmers prefer dark mode?
+> Q: What is Hardware?
 >
-> A: Because light attracts bugs! 🐛
+> A: The part of the computer which you can kick.
 
 > — ahmadreza-log
 
