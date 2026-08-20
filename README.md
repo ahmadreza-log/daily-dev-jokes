@@ -71,9 +71,9 @@ Add these markers to your `README.md` file:
 
 <!--START_SECTION:dev-jokes-->
 
-> Code is like humor.
+> Question: How many developers does it take to screw in a lightbulb?
 >
-> When you have to explain it, it’s bad.
+> Answer: None. It’s a hardware problem.
 
 > — ahmadreza-log
 
