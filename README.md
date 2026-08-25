@@ -71,9 +71,9 @@ Add these markers to your `README.md` file:
 
 <!--START_SECTION:dev-jokes-->
 
-> Question: What is a developer's favorite country song?
+> Q: What is Hardware?
 >
-> Answer: Hello World - by Lady Antebellum
+> A: The part of the computer which you can kick.
 
 > — ahmadreza-log
 
