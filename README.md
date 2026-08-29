@@ -71,9 +71,9 @@ Add these markers to your `README.md` file:
 
 <!--START_SECTION:dev-jokes-->
 
-> Question: What's the object-oriented way to become wealthy?
+> Question: Why don't keyboards sleep?
 >
-> Answer: Inheritance.
+> Answer: Because they have two shifts.
 
 > — ahmadreza-log
 
