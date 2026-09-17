@@ -71,9 +71,9 @@ Add these markers to your `README.md` file:
 
 <!--START_SECTION:dev-jokes-->
 
-> Code is like humor.
+> Q: What is Hardware?
 >
-> When you have to explain it, it’s bad.
+> A: The part of the computer which you can kick.
 
 > — ahmadreza-log
 
