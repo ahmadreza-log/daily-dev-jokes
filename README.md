@@ -71,9 +71,9 @@ Add these markers to your `README.md` file:
 
 <!--START_SECTION:dev-jokes-->
 
-> Q: How did the Coder CEO build his company headquarters?
+> Q: Who won the debate for the best name for loop variable?
 >
-> A: By calling the Constructor();
+> A: i won.
 
 > — ahmadreza-log
 
