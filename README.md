@@ -71,7 +71,9 @@ Add these markers to your `README.md` file:
 
 <!--START_SECTION:dev-jokes-->
 
-> Software and cathedrals are much the same — first we build them, then we pray.
+> Q: How did the Coder CEO build his company headquarters?
+>
+> A: By calling the Constructor();
 
 > — ahmadreza-log
 
