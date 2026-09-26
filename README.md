@@ -71,9 +71,9 @@ Add these markers to your `README.md` file:
 
 <!--START_SECTION:dev-jokes-->
 
-> Q: What is Hardware?
+> Question: How many developers does it take to screw in a lightbulb?
 >
-> A: The part of the computer which you can kick.
+> Answer: None. It’s a hardware problem.
 
 > — ahmadreza-log
 
