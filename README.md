@@ -71,9 +71,9 @@ Add these markers to your `README.md` file:
 
 <!--START_SECTION:dev-jokes-->
 
-> Question: What's the object-oriented way to become wealthy?
+> Q: Why do they call it hyper text?
 >
-> Answer: Inheritance.
+> A: Too much JAVA.
 
 > — ahmadreza-log
 
