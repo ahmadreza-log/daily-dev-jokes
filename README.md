@@ -71,9 +71,9 @@ Add these markers to your `README.md` file:
 
 <!--START_SECTION:dev-jokes-->
 
-> Q: How did the Coder CEO build his company headquarters?
+> Question: Why don't keyboards sleep?
 >
-> A: By calling the Constructor();
+> Answer: Because they have two shifts.
 
 > — ahmadreza-log
 
