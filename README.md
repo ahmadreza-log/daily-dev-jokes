@@ -71,9 +71,7 @@ Add these markers to your `README.md` file:
 
 <!--START_SECTION:dev-jokes-->
 
-> Question: Why don't keyboards sleep?
->
-> Answer: Because they have two shifts.
+> A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks "may I join you?"
 
 > — ahmadreza-log
 
