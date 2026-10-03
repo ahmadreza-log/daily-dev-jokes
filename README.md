@@ -71,9 +71,9 @@ Add these markers to your `README.md` file:
 
 <!--START_SECTION:dev-jokes-->
 
-> Q: Why do programmers prefer dark mode?
+> Q: Why do they call it hyper text?
 >
-> A: Because light attracts bugs! 🐛
+> A: Too much JAVA.
 
 > — ahmadreza-log
 
