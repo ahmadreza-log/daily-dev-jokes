@@ -71,9 +71,9 @@ Add these markers to your `README.md` file:
 
 <!--START_SECTION:dev-jokes-->
 
-> Question: Why did the private classes break up?
+> Q: Why do programmers prefer dark mode?
 >
-> Answer: Because they never saw each other.
+> A: Because light attracts bugs! 🐛
 
 > — ahmadreza-log
 
