@@ -71,7 +71,9 @@ Add these markers to your `README.md` file:
 
 <!--START_SECTION:dev-jokes-->
 
-> Debugging: Removing the needles from the haystack.
+> Q: Why do programmers prefer dark mode?
+>
+> A: Because light attracts bugs! 🐛
 
 > — ahmadreza-log
 
