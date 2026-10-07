@@ -71,9 +71,9 @@ Add these markers to your `README.md` file:
 
 <!--START_SECTION:dev-jokes-->
 
-> Q: Why do they call it hyper text?
+> Code is like humor.
 >
-> A: Too much JAVA.
+> When you have to explain it, it’s bad.
 
 > — ahmadreza-log
 
