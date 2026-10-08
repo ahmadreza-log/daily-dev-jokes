@@ -71,9 +71,7 @@ Add these markers to your `README.md` file:
 
 <!--START_SECTION:dev-jokes-->
 
-> Question: What's the object-oriented way to become wealthy?
->
-> Answer: Inheritance.
+> Software and cathedrals are much the same — first we build them, then we pray.
 
 > — ahmadreza-log
 
