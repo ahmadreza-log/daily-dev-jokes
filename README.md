@@ -71,9 +71,12 @@ Add these markers to your `README.md` file:
 
 <!--START_SECTION:dev-jokes-->
 
-> Code is like humor.
+> Question: Favourite actor of a JavaScript Developer is?
 >
-> When you have to explain it, it’s bad.
+> Answer: JSON Statham
+
+![Joke Image](https://raw.githubusercontent.com/shrutikapoor08/devjoke/master/images/E12OmzjXoAAzVvh.jpeg)
+
 
 > — ahmadreza-log
 
