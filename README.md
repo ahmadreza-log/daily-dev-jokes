@@ -71,9 +71,9 @@ Add these markers to your `README.md` file:
 
 <!--START_SECTION:dev-jokes-->
 
-> Code is like humor.
+> Q: How did the Coder CEO build his company headquarters?
 >
-> When you have to explain it, it’s bad.
+> A: By calling the Constructor();
 
 > — ahmadreza-log
 
