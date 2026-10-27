@@ -71,7 +71,9 @@ Add these markers to your `README.md` file:
 
 <!--START_SECTION:dev-jokes-->
 
-> Debugging: Removing the needles from the haystack.
+> Question: Why did the private classes break up?
+>
+> Answer: Because they never saw each other.
 
 > — ahmadreza-log
 
