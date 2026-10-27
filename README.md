@@ -71,9 +71,12 @@ Add these markers to your `README.md` file:
 
 <!--START_SECTION:dev-jokes-->
 
-> Question: What's the object-oriented way to become wealthy?
+> Question: Favourite actor of a JavaScript Developer is?
 >
-> Answer: Inheritance.
+> Answer: JSON Statham
+
+![Joke Image](https://raw.githubusercontent.com/shrutikapoor08/devjoke/master/images/E12OmzjXoAAzVvh.jpeg)
+
 
 > — ahmadreza-log
 
