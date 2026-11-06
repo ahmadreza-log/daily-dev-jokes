@@ -71,7 +71,9 @@ Add these markers to your `README.md` file:
 
 <!--START_SECTION:dev-jokes-->
 
-> Programmer's Curse: the moment you brag "no bugs", a bug appears
+> Q: How did the Coder CEO build his company headquarters?
+>
+> A: By calling the Constructor();
 
 > — ahmadreza-log
 
