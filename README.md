@@ -71,9 +71,9 @@ Add these markers to your `README.md` file:
 
 <!--START_SECTION:dev-jokes-->
 
-> Code is like humor.
+> Question: What's the object-oriented way to become wealthy?
 >
-> When you have to explain it, it’s bad.
+> Answer: Inheritance.
 
 > — ahmadreza-log
 
