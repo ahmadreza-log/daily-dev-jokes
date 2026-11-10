@@ -71,9 +71,9 @@ Add these markers to your `README.md` file:
 
 <!--START_SECTION:dev-jokes-->
 
-> Question: Why did the private classes break up?
+> Code is like humor.
 >
-> Answer: Because they never saw each other.
+> When you have to explain it, it’s bad.
 
 > — ahmadreza-log
 
