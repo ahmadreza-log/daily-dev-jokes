@@ -71,9 +71,7 @@ Add these markers to your `README.md` file:
 
 <!--START_SECTION:dev-jokes-->
 
-> Question: Why did the private classes break up?
->
-> Answer: Because they never saw each other.
+> I have a joke about Stack Overflow, but you would say it's a duplicate.
 
 > — ahmadreza-log
 
