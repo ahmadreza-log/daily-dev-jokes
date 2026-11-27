@@ -71,9 +71,9 @@ Add these markers to your `README.md` file:
 
 <!--START_SECTION:dev-jokes-->
 
-> Question: What's the object-oriented way to become wealthy?
+> Q: Why do programmers prefer dark mode?
 >
-> Answer: Inheritance.
+> A: Because light attracts bugs! 🐛
 
 > — ahmadreza-log
 
